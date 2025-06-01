@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Data Science and App developmentt**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imamulanan](https://github.com/imamulanan)
 
