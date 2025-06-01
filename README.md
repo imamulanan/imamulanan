@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/limamulanan" target="blank"><img src="https://img.shields.io/twitter/follow/limamulanan?logo=twitter&style=for-the-badge" alt="limamulanan" /></a> </p>
 
+<p><img width="28%" align="right" alt="Github Header" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/></p>
+
 - 🔭 I’m currently working on **Data Science and App developmentt**
 
 - 🌱 I’m currently learning **Python**
