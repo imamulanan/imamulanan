@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Imamul+Kabir+Anan;A+Tech-Enthusiast+%F0%9F%92%BB;Flutter+%7C+Python+%7C+Data+Science;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Imamul+Kabir+Anan;A+Tech-Enthusiast+%F0%9F%92%BB;Flutter+%7C+Python+%7C+Data+Science;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,22 +16,27 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **Apps and Data Projects**
-- 🧠 Learning **Data Science, ML & Backend Systems**
-- 📚 Love solving real-world problems with code
-- 🛠️ Building more than just apps – building solutions!
-- 💡 Fun Fact: *I often learn better by building projects than reading tutorials.*
-- 📧 Reach me at [**anan.imamul@gmail.com**](mailto:anan.imamul@gmail.com)
-- 💻 Portfolio: [GitHub](https://github.com/imamulanan)
+- 🔭 Currently building **Apps and Data Projects** to solve real-world problems
+- 🧠 Passionate about **Data Science**, **Machine Learning**, and **Backend Systems**
+- 📚 I thrive on learning by **building real-world projects**
+- 🛠️ Focused on **building solutions** rather than just apps
+- 📧 Reach me at: [**anan.imamul@gmail.com**](mailto:anan.imamul@gmail.com)
+- 💻 Explore my work: [GitHub](https://github.com/imamulanan)
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imamul-kabir-anan-997b90289/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/imamulanan"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://facebook.com/imamulkabir.anan"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.linkedin.com/in/imamul-kabir-anan-997b90289/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/imamulanan">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://facebook.com/imamulkabir.anan">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
   <a href="https://codeforces.com/profile/imamul_anan">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="36" alt="Codeforces" />
   </a>
@@ -63,6 +68,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&theme=radical&rank_icon=github" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamulanan&layout=compact&theme=radical" />
 </p>
 
@@ -75,6 +83,6 @@
 ### 🎯 Currently Focusing On
 
 ```txt
-🔍 Deep Dive into Data Science
+🔍 Deep Dive into Data Science and AI
 📱 Full-Stack App Development (Flutter + Firebase)
-
+🚀 Exploring Cloud Computing and DevOps
