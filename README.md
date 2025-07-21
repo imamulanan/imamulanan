@@ -1,79 +1,50 @@
-<h1 align="center">Hi 👋, I'm Imamul Kabir Anan</h1>
-<h3 align="center">🚀 Passionate about technology, coding, and continuous learning</h3>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Imamul+Kabir+Anan;A+Tech-Enthusiast+%F0%9F%92%BB;Flutter+%7C+Python+%7C+Data+Science;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imamulanan&label=Profile%20views&color=0e75b6&style=flat" alt="imamulanan" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=gruvbox&row=2&column=3" alt="imamulanan" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/imamulanan" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/imamulanan?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="coding" width="28%" />
+  <a href="https://github.com/imamulanan"><img src="https://komarev.com/ghpvc/?username=imamulanan&label=Profile+views&color=0e75b6&style=flat" alt="imamulanan" /></a>
+  <a href="https://twitter.com/imamulanan"><img src="https://img.shields.io/twitter/follow/imamulanan?logo=twitter&style=flat-square" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Data Science and App Development**
-- 🌱 I’m currently learning **Data Science**
-- 💬 Ask me about **Python, Flutter, MySQL, or Arduino**
-- 👨‍💻 All my projects are on [GitHub](https://github.com/imamulanan)
-- 📫 Reach me at **anan.imamul@gmail.com**
-- ⚡ Fun fact: *I often learn better by building projects than reading tutorials.*
+- 🔭 Currently building **Apps and Data Projects**
+- 🧠 Learning **Data Science, ML & Backend Systems**
+- 📚 Love solving real-world problems with code
+- 🛠️ Building more than just apps – building solutions!
+- 💡 Fun Fact: *I learn best by building, not just reading!*
 
 ---
 
-### 🌐 Connect with me:
+### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/imamulanan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/imamul-kabir-anan-997b90289/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/imamulkabir.anan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/imamul_anan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/imamul-kabir-anan-997b90289/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/imamulanan"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://facebook.com/imamulkabir.anan"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://codeforces.com/profile/imamul_anan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="36" alt="Codeforces" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,cpp,c,cs,php,mysql,html,css,js,git,figma,androidstudio" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,seaborn,vscode,dotnet,mssql,arduino" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -81,13 +52,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&theme=radical&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamulanan&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamulanan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamulanan&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imamulanan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+### 🎯 Currently Focusing On
+
+```txt
+- 🔍 Deep Dive into Data Science
+- 📱 Full-Stack App Development (Flutter + Firebase)
+- 🧠 Problem Solving & Competitive Programming
