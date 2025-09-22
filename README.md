@@ -1,8 +1,10 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Imamul+Kabir+Anan;Tech+Enthusiast+💻;Flutter+%7C+Python+%7C+Data+Science;Always+Learning+📚" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=4000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+%F0%9F%91%8B,+I%27m+Imamul+Kabir+Anan;Tech+Enthusiast+%F0%9F%92%BB;Flutter+%7C+Python+%7C+Data+Science;Always+Learning+%F0%9F%93%9A"
+    alt="Typing Animation"
+  />
 </p>
-
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/imamulanan"><img src="https://komarev.com/ghpvc/?username=imamulanan&style=for-the-badge&color=blue" /></a>
