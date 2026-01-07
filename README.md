@@ -42,7 +42,7 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ### 📊 Data Science & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,seaborn,linux,arduino&perline=6" />
+  <img src="https://skillicons.dev/icons?i=pandas,seaborn,linux&perline=6" />
 </p>
 
 ### ⚙️ Development & Productivity
