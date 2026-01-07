@@ -70,5 +70,3 @@
 🔍 Deep Dive into Data Science & AI  
 📱 Full-Stack App Development (Flutter + Firebase)  
 ☁️ Exploring Cloud Computing & DevOps  
-
-make it more beautiful
