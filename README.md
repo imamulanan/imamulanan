@@ -56,9 +56,7 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=radical&row=1&column=6" aria-label="GitHub Profile Trophies">
-    <img src="https://img.shields.io/badge/View%20Trophies-Radical-ff005c?style=for-the-badge&logo=github" alt="GitHub Profile Trophies Badge" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
 
 ---
@@ -66,18 +64,12 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&theme=radical&hide_border=true" aria-label="GitHub Stats">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-View-0aa1dd?style=for-the-badge&logo=github" alt="GitHub Stats Badge" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imamulanan&layout=compact&theme=radical&hide_border=true" aria-label="Top Languages">
-    <img src="https://img.shields.io/badge/Top%20Languages-View-f06292?style=for-the-badge&logo=code" alt="Top Languages Badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamulanan&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=imamulanan&theme=radical&hide_border=true" aria-label="GitHub Streak">
-    <img src="https://img.shields.io/badge/GitHub%20Streak-View-ff6f61?style=for-the-badge&logo=firefoxbrowser" alt="GitHub Streak Badge" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imamulanan&theme=radical&hide_border=true" height="200" />
 </p>
 
 ---
