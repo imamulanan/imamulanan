@@ -56,7 +56,7 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=radical&no-frame=true&margin-w=12&margin-h=12&row=1&column=6&cache_seconds=86400&v=1" alt="GitHub Profile Trophies" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/profile-trophy.svg?username=imamulanan&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
 </p>
 
 ---
@@ -64,12 +64,12 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&rank_icon=percentile&v=1" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamulanan&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&langs_count=8&v=1" height="180" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/static/generated/overview.svg?username=imamulanan&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/static/generated/languages.svg?username=imamulanan&theme=radical&hide_border=true&layout=compact" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imamulanan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&cache_seconds=86400&v=1" height="200" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/streak-stats.svg?user=imamulanan&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
 </p>
 
 ---
