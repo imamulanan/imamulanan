@@ -56,7 +56,7 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Profile Trophies" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imamulanan&theme=radical&hide_border=true" height="200" />
+  <img src="https://streak-stats.demolab.com?user=imamulanan&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
 </p>
 
 ---
