@@ -56,7 +56,9 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy@master/profile-trophy.svg?username=imamulanan&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=imamulanan&theme=radical&row=1&column=6" aria-label="GitHub Profile Trophies">
+    <img src="https://img.shields.io/badge/View%20Trophies-Radical-ff005c?style=for-the-badge&logo=github" alt="GitHub Profile Trophies Badge" />
+  </a>
 </p>
 
 ---
@@ -64,12 +66,18 @@ I am a **Computer Science & Engineering student** and a passionate **software de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/static/generated/overview.svg?username=imamulanan&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/static/generated/languages.svg?username=imamulanan&theme=radical&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+  <a href="https://github-readme-stats.vercel.app/api?username=imamulanan&show_icons=true&theme=radical&hide_border=true" aria-label="GitHub Stats">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-View-0aa1dd?style=for-the-badge&logo=github" alt="GitHub Stats Badge" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imamulanan&layout=compact&theme=radical&hide_border=true" aria-label="Top Languages">
+    <img src="https://img.shields.io/badge/Top%20Languages-View-f06292?style=for-the-badge&logo=code" alt="Top Languages Badge" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master/docs/streak-stats.svg?user=imamulanan&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
+  <a href="https://streak-stats.demolab.com?user=imamulanan&theme=radical&hide_border=true" aria-label="GitHub Streak">
+    <img src="https://img.shields.io/badge/GitHub%20Streak-View-ff6f61?style=for-the-badge&logo=firefoxbrowser" alt="GitHub Streak Badge" />
+  </a>
 </p>
 
 ---
